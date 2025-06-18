@@ -11,4 +11,7 @@ Email: Chadharley678@gmail.com
 
 Each project is contained in its own folder otherwise single file projects are displayed on their own. 
 
-Project 1 : GDP_Internet
+Project 1: GDP_Internet_Happiness_analysis, is a project I worked on that compares a countries internet adoption to its happiness score, and looks to uncover patterns in GDP 
+and wages increased by internet adoption on Happiness. In this project I used, Linear Regression, Expontial Regression, Correlation, and Kmeans Clustering
+
+Project 2:
