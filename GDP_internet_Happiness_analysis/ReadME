@@ -1,1 +1,12 @@
 Description of Project
+This project was created to explore the effetcs of internet adoption on a countries happiness. While we wanted to observe the direct effects of internet adoption on happiness we also wanted to analyze the
+connection between internet adoption and GDP and avgerage country wages to uncover connections indireclty as well. The data was sourced from two kaggle datasets "Internet Prices Datasets for Analysis" and
+"World Happiness Report". The data was joined in pgadmin4 using postgreSQL by country name and aggregated to show changes over the years from 2015-2019. 
+
+Techniques used to analye the data include..
+Linear Regression
+Exponential Regression
+Kmeans clustering
+Correlation
+
+Analysis findings can be found in the summary section of the Python Notebook. 
