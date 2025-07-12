@@ -16,6 +16,6 @@ and wages increased by internet adoption on Happiness. In this project I used, L
 
 Project 2: Is a python script that will take a csv of book data and build a virtual library to organize your books on.
 
-Project 3: Golf_Project. This file showcases my work on a hypothetical Market Analysis project for a consulting firm. This project was created to help an investment company 
+Project 3: [Golf_Project](https://github.com/Chadanddata/Portfolio/tree/main/Golf_project). This file showcases my work on a hypothetical Market Analysis project for a consulting firm. This project was created to help an investment company 
 determine a new location to open a golf course, What kind of course they should build and what the expected revenue would be. Data was sourced online through the U.S Census Bureau 
 and Github repositories. Analysis was completed in R, including data cleaning, feature engineering and visualizations. The final presentation was created using PowerPoint.
